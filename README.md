@@ -1,18 +1,7 @@
-## Getting Started
+## 💻 Sobre o código
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este código representa o sistema de uma biblioteca. Nesse sistema, o usuário pode ver todos os livros dessa biblioteca, procurar um livro específico pelo título, ou pelo autor, além de poder ver os livros disponíveis para empréstimo e até mesmo pegar um livro emprestado e devolvê-lo, posteriormente. 
+Os empréstimos e as devoluções realizados são salvos em um arquivo de texto, o que permite que o programa identifique um usuário em débito com a biblioteca e o impossibilite de pegar outro livro emprestado por um tempo.
+Além disso, existe uma opção que apenas administradores podem acessar, na qual os mesmos podem adicionar ou retirar um livro da biblioteca.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Senha de administrador (caso deseje testar): Hadm2k#23
